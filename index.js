@@ -38,7 +38,7 @@ function keypress(event){
                 tom5.play();
             break;
             case "k":
-            var tom6=new Audio("sounds/crash.mp3");
+            var tom6=new Audio("crash.mp3");
                 tom6.play();
             break;
             case "l":
