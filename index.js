@@ -42,7 +42,7 @@ function keypress(event){
                 tom6.play();
             break;
             case "l":
-            var tom7 = new Audio("Kick-bass.mp3");
+            var tom7 = new Audio("kick-bass.mp3");
                 tom7.play();
             break;
     
